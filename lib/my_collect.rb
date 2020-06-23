@@ -1,4 +1,5 @@
 def my_collect(collection)
   coll = []
-  while 
-
+  i = 0 
+  while i < collection.length
+    
